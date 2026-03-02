@@ -85,7 +85,7 @@ mongodb-semantic/
 
 ### 1️⃣ Clone Repository
 
-```bash
+```
 git clone https://github.com/Geeta1923/mongodb-semantic-search.git
 cd semanticforge
 
@@ -124,7 +124,10 @@ Difference between TCP and UDP
 What is Python?
 Explain supervised learning
 
-📸 Demo Screenshots
+
+---
+
+### Demo Documents
 
 ### 🔐 Login Page
 ![Login Page](screenshots/login.png)
@@ -169,33 +172,4 @@ SemanticForge – hack-n-go-with-mongodb Project
 📜 License
 
 This project is developed for educational and hackathon purposes.
----
 
-# ✅ After Adding README
-
-Your GitHub repo will look:
-semanticforge/
-README.md ⭐
-frontend/
-backend/
-ai-service/
-
-Judges immediately understand project → **big advantage**.
-
----
-
-# ⭐ Next (VERY IMPORTANT)
-
-You now have:
-
-✅ Working project  
-✅ Documentation  
-✅ README  
-
-Next you should ensure **GitHub looks clean**.
-
-If you want, I can give you:
-
-👉 **Perfect GitHub folder structure + what files to upload / NOT upload** (many teams lose marks here).
-
-Just say: **“Show GitHub structure.”** 🚀
